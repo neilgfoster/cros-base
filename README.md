@@ -4,7 +4,7 @@ This is the base template repository for my ChromeOS setup. It provides a basic 
 The setup script includes functions for installing all common packages and adds this repository as an upstream remote, allowing updates to be easily merged into downstream projects.
 
 > [!NOTE]
-> Don't forget to update the -o and -r variables in the setup.sh script after creating a new repository from this template. In addition, update the URL in the "Getting Started" section below.
+> Don't forget to update the -o and -r variables in the script in the "Getting Started" section below.
 
 # Getting Started
 1. Make sure you are in the directory where you want the repository to be cloned.
