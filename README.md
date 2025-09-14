@@ -10,5 +10,5 @@ The setup script includes functions for installing all common packages and adds 
 1. Make sure you are in the directory where you want the repository to be cloned.
 2. Open the Chrome OS Linux terminal, then copy and paste the following text to download and run the setup scripts.
 ```bash
-bash <(curl -sS https://raw.githubusercontent.com/neilgfoster/base/main/.setup/setup.sh) -o=neilgfoster -r=cros-base
+bash <(curl -sS https://raw.githubusercontent.com/neilgfoster/cros-base/main/.setup/setup.sh) -o=neilgfoster -r=cros-base
 ```
